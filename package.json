@@ -62,7 +62,7 @@
     "underscore": "1.8.x",
     "request": "2.67.0",
     "node-uuid": "~1.4",
-    "azure-storage": "github:unidesk/azure-storage-node#azure-connector-0.1.0"
+    "azure-storage": "^0.6.0"
   },
   "devDependencies": {
     "adal-node": "0.1.13",
