@@ -14,7 +14,7 @@
     "Mkrtchyan, Hovsep <hovsepm@microsoft.com>",
     "Lu, Jianghao <jianghlu@microsoft.com>"
   ],
-  "version": "0.10.7-unidesk.1",
+  "version": "0.10.7-unidesk.2",
   "description": "Microsoft Azure Client Library for node",
   "tags": [
     "azure",
@@ -62,7 +62,7 @@
     "underscore": "1.8.x",
     "request": "2.67.0",
     "node-uuid": "~1.4",
-    "azure-storage": "^0.6.0"
+    "azure-storage": "^0.7.0"
   },
   "devDependencies": {
     "adal-node": "0.1.13",
